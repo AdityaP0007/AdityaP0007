@@ -1,0 +1,32 @@
+.logindiv {
+  border: 2px solid lightgrey;
+  width: 30%;
+  margin: 250px;
+  margin-left: 470px;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 5px 5px;
+}
+
+.btn1 {
+  border: 2px solid darkblue;
+  background-color: aliceblue;
+  border-radius: 5px;
+}
+
+.headerClass {
+  text-align: center;
+}
+
+.homeDiv {
+  border: 2px solid gray;
+  padding: 10px;
+  box-shadow: 5px 5px black;
+  background-color: lightgray;
+}
+
+.studentform {
+  border: 2px solid gray;
+  padding: 10px;
+  box-shadow: 5px 5px black;
+}
